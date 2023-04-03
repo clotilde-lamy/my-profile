@@ -1,0 +1,70 @@
+body {
+background-color: rgb(230, 230, 230);
+color: black;
+font-family: Times;
+font-size: 20px
+}
+
+h1 {
+color: hotpink;
+    font-family: script bold;
+    font-weight: 200;
+    letter-spacing: 5px;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+h2 {
+color: lightpink;
+    font-family: Helvetica;
+    font-weight: 200;
+    letter-spacing: 5px;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+div {
+background: white;
+padding: 50px;
+border: 3px solid pink;
+border-radius: 8px;
+margin: 35px;
+box-shadow: 0px 3px 5px deeppink;
+text-align: center;
+}
+
+#photo { 
+    border-radius: 50%;
+    box-shadow: 0px 3px 5px deeppink;
+    }
+
+a:hover {
+    color: black;
+}
+
+a{
+    text-decoration:none;
+    color:pink;
+    font-weight:lighter;
+    font-size:15px;
+    transition:color 0.3s ease;
+    letter-spacing: 5px;
+}
+
+.btn-red {
+    background-color: lightgrey;
+    color: floralwhite;
+    padding: 10px 10px;
+    border-radius: 7px;
+}
+
+
+
+
+
+
+
+
+
+
+
